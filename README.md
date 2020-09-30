@@ -6,12 +6,10 @@ Freshservice bot sends you relevant freshservice notifications through Glip. It 
 
 -   [Availibility](#Availibility)
 -   [Feedback](#We-want-your-feedback)
--   [Commands](#Commands)
--   [Status](#Status)
--   [State](#State)
+-   [Installation](#Installation)
+-   [Enable notifications](#Enable_notifications)
+-   [Disable notifications](#Disable_notifications)
 -   [Examples](#Examples)
--   [Aliases](#Aliases)
--   [Syntax](#Syntax)
 
 ## Availibility
 
