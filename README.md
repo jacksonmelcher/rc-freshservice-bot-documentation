@@ -15,6 +15,10 @@ Freshservice bot sends you relevant freshservice notifications through Glip. It 
 
 Freshservice bot is in its first stages of development and is only available only to RC employees at this time.
 
+## Usage
+
+Freshservice will automatically send you notifications when you submit a ticket, are assigned a ticket, or a ticket is reassigned to you. Please join **RC on RC integration help** for help setting up webhooks with Freshservice workflows.
+
 ## We want your feedback
 
 We'd love to hear your feedback about Freshservice Bot. If you spot bugs or have features that you'd really like to see, please check out the [bug and feature sumbission form](https://forms.gle/KKYKVVoxUN5z32dY7).
@@ -36,10 +40,6 @@ To enable notifications simply send `enable` to the bot. You should get a respon
 
 To disable notifications simply send `disable` to the bot. You should get a response like this:
 ![](images/disable.png)
-
-## Usage
-
-Freshservice will automatically send you notifications when you submit a ticket, are assigned a ticket, or a ticket is reassigned to you. Please join **RC on RC integration help** for help setting up webhooks with Freshservice workflows.
 
 ## Examples
 
